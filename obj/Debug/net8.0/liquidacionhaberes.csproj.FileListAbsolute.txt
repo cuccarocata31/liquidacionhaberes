@@ -1,0 +1,14 @@
+C:\Users\qks\Documents\liquidacionhaberes\bin\Debug\net8.0\liquidacionhaberes.exe
+C:\Users\qks\Documents\liquidacionhaberes\bin\Debug\net8.0\liquidacionhaberes.deps.json
+C:\Users\qks\Documents\liquidacionhaberes\bin\Debug\net8.0\liquidacionhaberes.runtimeconfig.json
+C:\Users\qks\Documents\liquidacionhaberes\bin\Debug\net8.0\liquidacionhaberes.dll
+C:\Users\qks\Documents\liquidacionhaberes\bin\Debug\net8.0\liquidacionhaberes.pdb
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.AssemblyInfoInputs.cache
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.AssemblyInfo.cs
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.csproj.CoreCompileInputs.cache
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.dll
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\refint\liquidacionhaberes.dll
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.pdb
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\liquidacionhaberes.genruntimeconfig.cache
+C:\Users\qks\Documents\liquidacionhaberes\obj\Debug\net8.0\ref\liquidacionhaberes.dll
